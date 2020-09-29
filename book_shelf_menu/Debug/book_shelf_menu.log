@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\IVC1-5\source\repos\book_shelf_menu\book_shelf_menu\Shelf.h(24,9): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IVC1-5\source\repos\book_shelf_menu\book_shelf_menu\Shelf.h(33,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IVC1-5\source\repos\book_shelf_menu\book_shelf_menu\BShelf.h(18,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IVC1-5\source\repos\book_shelf_menu\book_shelf_menu\BShelf.h(26,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IVC1-5\source\repos\book_shelf_menu\book_shelf_menu\BShelf.h(41,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IVC1-5\source\repos\book_shelf_menu\book_shelf_menu\main.cpp(36,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\IVC1-5\source\repos\book_shelf_menu\book_shelf_menu\main.cpp(55,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\IVC1-5\source\repos\book_shelf_menu\book_shelf_menu\main.cpp(81,22): warning C4018: <: несоответствие типов со знаком и без знака
+  book_shelf_menu.vcxproj -> C:\Users\IVC1-5\source\repos\book_shelf_menu\Debug\book_shelf_menu.exe
